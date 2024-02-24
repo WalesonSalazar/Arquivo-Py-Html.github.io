@@ -1,0 +1,14 @@
+subindo codigo VS code no git hub
+
+git init
+
+git add .
+
+git commit -m "mensagen"
+
+git branch -M main
+
+git remote add origin (url do repositório)
+
+git push-u origin main
+
