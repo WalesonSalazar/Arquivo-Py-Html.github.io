@@ -1,0 +1,52 @@
+
+
+(//*[@id="navbarNav"]/ul/button[2]/span)clicar em Módulos
+
+(//*[@id="dropdownModules_2"])clicar em Relatórios
+
+(//*[@id="dropdownModules_2_div"]/ul/li[1]/a)Clicar em Planta
+
+time(8)
+
+(//*[@id="select2-deviceTypeSelector-container"]) clica tipo Campo TODOS
+
+(/html/body/span/span/span[1]/input)clica campo Tipo e Digita Motor
+
+
+
+Enter
+
+(//*[@id="logins-part"]/div[4]/div[4]/div[3]/div[1]/div/div/button) clica Exibir
+
+(//*[@id="logins-part"]/div[4]/div[4]/div[3]/div[1]/div/div/div/a[4]) clica em 100
+
+(//*[@id="results"]/thead/tr/th[1]/div[1]/label/input) cilca em None (para selecionar todos)
+
+(//*[@id="pills-profile-tab"]) clica em Envio
+
+(//*[@id="information-part"]/div[1]/input) clica em Empresa
+
+Digita nome Brasilit.Belém (Saint-Gobain)
+
+(//*[@id="information-part"]/div[2]/input)click para 
+
+3 clicks ou Deletar email Atual
+
+Digitar Email destinatario Principal Apeana para teste
+
+(//*[@id="cc"]) clica campo cc
+
+digita todos Email para receber Relatórios
+
+(//*[@id="information-part"]/div[5]/input) clica campo Responsavel
+
+Digita Equipe IOT Brasilit-Belém
+
+(//*[@id="moreInfo"]) Clica em campo Outras Informações
+
+Digitar informações Necessarios 
+
+(//*[@id="submitForm"]/span
+)clicar em Gerar relatório
+
+retorna pagina Inicial (https://mfm.wnology.io/)

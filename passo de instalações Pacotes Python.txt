@@ -1,0 +1,53 @@
+cmd
+python
+from mouseinfo import mouseInfo
+mouseInfo()
+
+como usra teclado e mouse
+https://youtu.be/UW8Vf0dyEvs
+
+
+pip install pywin32
+_________________________________________________________
+>instalar pyautogui
+python3 -m pip install --user pyautogui
+_________________________________________________________
+>instalar pacotes para capturar imagens 
+python3 -m pip install --upgrade pip
+python3 -m pip install --upgrade Pillow
+
+pip install opencv-python
+___________________________________________________________
+pip install pip-download  
+
+python3 -m pip install --upgrade Pillow
+___________________________________________________________
+________________________________________________________________
+pip install playwright
+
+pip install pytest-playwright playwright -U
+pip install pytest-playwright
+python -m playwright install
+________________________________________________________________
+
+
+posição do ponteiro
+25,879 windows 
+135,881 pesquisa
+edge write
+138,342 edege
+235,290 barra de pesquisa
+https://mfm.wnology.io/login
+420,320 
+1204,241 maximizar
+mauro.queiroz@saint-gobain.com
+Motor@weg
+272,625 entrar
+1375,848 barro de rolar
+1182,846 ver mais
+1287,311 exportar dados
+1228,515 ms-excel
+1375,834 barra de rolar
+325,721 exibir de 10 para 50
+313,671  10 para 50
+ 
