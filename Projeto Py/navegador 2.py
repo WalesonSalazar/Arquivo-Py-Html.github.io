@@ -17,7 +17,7 @@ with sync_playwright() as p:
     pagina.fill('xpath=//*[@id="email"]', 'mauro.queiroz@saint-gobain.com')  #Login
     pagina.locator('xpath=//*[@id="btn-login"]').click()
     time.sleep(3)
-    pagina.fill('xpath=//*[@id="password"]', 'Motor@weg')# Senha
+    pagina.fill('xpath=//*[@id="password"]', '......')# Senha
 
     pagina.locator('xpath=//*[@id="btn-login"]').click()
     time.sleep(8)
